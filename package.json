@@ -1,0 +1,26 @@
+{
+  "name": "node-rrdtoolr,
+  "author": "Mark Wolfe <mark@wolfe.id.au>",
+  "version": "0.1.0",
+  "description": "Adapter for calling rrdtool from node.",
+  "main": "lib/rrd.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolfeidau/node-rrdtool.git"
+  },
+  "keywords": [
+    "rrdtool"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "~1.5.0",
+    "mocha": "~1.8.2",
+    "rimraf": "~2.1.4",
+    "mkdirp": "~0.3.5"
+  }
+}
