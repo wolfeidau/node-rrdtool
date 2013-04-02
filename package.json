@@ -1,5 +1,5 @@
 {
-  "name": "node-rrdtoolr,
+  "name": "node-rrdtool",
   "author": "Mark Wolfe <mark@wolfe.id.au>",
   "version": "0.1.0",
   "description": "Adapter for calling rrdtool from node.",
