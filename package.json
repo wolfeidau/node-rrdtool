@@ -1,7 +1,7 @@
 {
   "name": "node-rrdtool",
   "author": "Mark Wolfe <mark@wolfe.id.au>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adapter for calling rrdtool from node.",
   "main": "lib/rrd.js",
   "scripts": {
